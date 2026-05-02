@@ -27,11 +27,8 @@ User Input → Prompt → LLM (OpenRouter) → Output
 * Chatflow JSON
 * Project Report (PDF)
 
-## ▶️ How to Run
-
-1. Import the JSON file into Flowise
-2. Add your OpenRouter API key
-3. Run the chat
+##live demo
+https://cloud.flowiseai.com/chatbot/afb791a1-2658-4b23-85fc-1e84a8ae8b5c
 
 ## 👤 Author
 
